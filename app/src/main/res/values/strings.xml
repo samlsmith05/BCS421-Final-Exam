@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BCS421FinalExam</string>
+
+    <!-- Main -->
+    <string name="MainUsernameTitle">Username</string>
+    <string name="MainPasswordTitle">Password</string>
+    <string name="MainLoginButton">LOGIN</string>
+    <string name="MainFailToast">Login not successful</string>
+
+    <!-- Employee Activity   -->
+    <string name="EAEmailTitle">Email</string>
+    <string name="EAFirstTitle">First</string>
+    <string name="EALastTitle">Last</string>
+    <string name="EADepartmentTitle">Department</string>
+    <string name="EAPositionTitle">Position</string>
+
+    <!-- Menu Item    -->
+    <string name="MIUpdateTitle">Update Employee</string>
+
+    <!-- Update Employee Activity -->
+    <string name="UEAEmailTitle">Email</string>
+    <string name="UEAFirstTitle">First</string>
+    <string name="UEALastTitle">Last</string>
+    <string name="UEADepartmentTitle">Department</string>
+    <string name="UEAPositionTitle">Position</string>
+    <string name="UEAChooseDeptButton">Choose Department</string>
+    <string name="UEAChoosePositionButton">Choose Position</string>
+    <string name="UEASaveEmpButton">Save Employee</string>
+
+    <!-- Choose Position Activity   -->
+    <string name="CPAChoosePosiTitle">Choose Position</string>
+    <string name="CPAProgrammer">Programmer</string>
+    <string name="CPAManager">Manager</string>
+    <string name="CPASalesPerson">Sales Person</string>
+    <string name="CPASavePosiButton">Save Position</string>
+
+    <!-- Choose Department Activity   -->
+    <string name="CDAChooseDeptTitle">Choose Department</string>
+    <string name="CDAIT">IT</string>
+    <string name="CDASales">Sales</string>
+    <string name="CDAHR">Human Resources</string>
+
+
+
+
+</resources>
